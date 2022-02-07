@@ -23,7 +23,7 @@ Adaptable! I found my way. There is always a space we can share. Respect and acc
 Worried! get back the self-esteem. Sometime I felt like thrown in the middle of the ocean despite knowing I am sure I will do it. And I did it!
 
 //week 5//
-Well! it is somthing look like life.
+Well! it is somthing looks like life.
 
 <!---
 HadeelAlsheraifi/HadeelAlsheraifi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
