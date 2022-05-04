@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Hadeel
-- 👀 I’m interested in tech-economics...
-- 🌱 I’m currently learning in  FullStack-BootCamp...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me (Don't Google It!)...
+- 👋 Hi, I’m Hadeel, 1st year in learning programming (React.js, Node.js and Flutter).
+- 👀 I’m interested in tech-economics.
+- 🌱 I’m currently working in multiple commercial projects.
+- 🧠 I’m looking to collaborate on CSR Software Development Programs.
+- 📫 How to reach me: ehadeeel@gmail.com
+
+# I was driven by curiosity to learn programming, I fall in love with it, ended up coding daily:)
 
 
 
