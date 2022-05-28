@@ -4,7 +4,7 @@
 - 🧠 I’m looking to collaborate on CSR Software Development Programs.
 - 📫 How to reach me: ehadeeel@gmail.com
 
-// I was driven by curiosity to learn programming, I fall in love with it, ended up coding daily:)
+// it started with curiosity , in love with it, ended up coding daily:)
 
 
 
